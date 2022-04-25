@@ -1,6 +1,6 @@
 THE EPISTLE OF PAUL TO THE EPHESIANS
 
-1 PAUL, an apostle of Christ Jesus by the will of God, to the saints who are ( 1) at Ephesus, and who are faithful in Christ Jesus:
+1 PAUL, an apostle of Christ Jesus by the will of God, to the saints who are (1) at Ephesus, and who are faithful in Christ Jesus:
 2 Grace to you and peace from God our Father and the Lord Jesus Christ.
 3 Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,
 4 just as He chose us in Him before the foundation of the world, that we should be holy and blameless before (2) Him. In love
@@ -12,7 +12,7 @@ THE EPISTLE OF PAUL TO THE EPHESIANS
 10 with a view to an administration suitable to the fulness of the times, that is, the summing up of all things in Christ, things in the heavens and things upon the earth. In Him
 11 also we have obtained an inheritance, having been predestined according to His purpose who works all things after the counsel of His will,
 12 to the end that we who were the first to hope in (3) Christ should be to the praise of His glory.
-13 In Him, you also, after listening to the message of truth, the gospel of your salvation—having also believed, you were sealed in Him with the Holy Spirit of promise,
+13 In Him, you also, after listening to the message of truth, the gospel of your salvation having also believed, you were sealed in Him with the Holy Spirit of promise,
 14 who is given as a pledge of our inheritance, with a view to the redemption of God’s own possession, to the praise of His glory.
 15 For this reason I too, having heard of the faith in the Lord Jesus which exists among you, and (4) your love for all the saints,
 16 do not cease giving thanks for you, while making mention of you in my prayers;
@@ -53,7 +53,7 @@ Chapter 2
 17 And He came and preached peace TO YOU WHO WERE FAR AWAY, AND PEACE TO THOSE WHO WERE NEAR;
 18 for through Him we both have our access in one Spirit to the Father.
 19 So then you are no longer strangers and aliens, but you are fellow citizens with the saints, and are of God’s household,
-20 having been built upon the foundation of the apostles and prophets, Christ Jesus Himself being the comer stone,
+20 having been built upon the foundation of the apostles and prophets, Christ Jesus Himself being the cornerstone,
 21 in whom the whole building, being fitted together is growing into a holy temple in the Lord;
 22 in whom you also are being built together into a dwelling of God in the Spirit.
 Chapter 3
@@ -111,7 +111,8 @@ Chapter 4
 23 and that you be renewed in the spirit of your mind,
 24 and put on the new self, which in the likeness of God has been created in righteousness and holiness of the truth.
 25 Therefore, laying aside falsehood, SPEAK TRUTH, EACH ONE of you, WITH HIS neighbor, for we are members of one another.
-26 Be angry, and yet do not sin; do not let the sun go down on your anger, 27 and do not give the devil an opportunity.
+26 Be angry, and yet do not sin; do not let the sun go down on your anger, 
+27 and do not give the devil an opportunity.
 28 Let him who steals steal no longer; but rather let him labor, performing with his own hands what is good, in order that he may have something to share with him who has need.
 29 Let no unwholesome word proceed from your mouth, but only such a word as is good for edification according to the need of the moment, that it may give grace to those who hear.
 30 And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption.
@@ -124,7 +125,7 @@ Family Relationships.
 32 And be kind to one another, tenderhearted, forgiving each other, just as God in Christ also has forgiven (6) you.
 Chapter 5
 1 THEREFORE be imitators of God, as beloved children;
-2 and walk in love, just as Christ also loved 6you, and gave Himself up for us, an offering and a sacrifice to God as a fragrant aroma.
+2 and walk in love, just as Christ also loved (6) you, and gave Himself up for us, an offering and a sacrifice to God as a fragrant aroma.
 3 But do not let immorality or any impurity or greed even be named among you, as is proper among saints;
 4 and there must be no filthiness and silly talk, or coarse jesting, which are not fitting, but rather giving of thanks.
 5 For this you know with certainty, that no immoral or impure person or covetous man, who is an idolater, has an inheritance in the kingdom of Christ and God.
